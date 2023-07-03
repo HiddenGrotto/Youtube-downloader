@@ -4,7 +4,7 @@ A Python-based mp4/mp3 downloader for YouTube!
 Created in Python using CustomTkinter. Utilizes Pytube, Pydub, and FFmpeg.
 
 # How to Use:
-1. Download the .zip and then extract it.
+1. [Download the .zip](https://github.com/HiddenGrotto/Youtube-downloader/archive/refs/heads/main.zip) and then extract it.
 2. Open "Youtube Downloader.exe"
 ![image](https://github.com/HiddenGrotto/Youtube-downloader/assets/138426946/a696e3f2-7cbb-4845-94b6-8457306c01aa)
 3. Enter the URL of the video you wish to download, then click download!
